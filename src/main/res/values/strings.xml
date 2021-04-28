@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">BookReview</string>
+
+    <string name="label_bookTitle">%1$s</string>
+    <string name="book">book_item: %1$s</string>
+    <string name="label_title">Title: %s </string>
+    <string name="label_BookAuthor"> Author: %1$s</string>
+    <string name="label_publishingHouse"> Publishing House: %1$s</string>
+    <string name="label_pages"> Pages: %1s</string>
+    <string name="label_bestSeller"> Best Seller: %1$s</string>
+    <string name="label_lista"> Books List</string>
+    <string name="Cover"> Book Cover</string>
+    <string name="bestSeller"> Best Seller</string>
+    <string name="label_description">Description</string>
+
+
+</resources>
+
